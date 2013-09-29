@@ -1,7 +1,5 @@
 # Projekt
 
-# Projektet
-
 ## Mål
 * Att få en repertoar av interaktionstekniker för webben
 * Att få erfarenhet av vad som är viktigt när man ska specificera, beställa och implementera ett projekt.
