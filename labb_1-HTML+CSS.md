@@ -4,7 +4,7 @@ Labb 1 består av en uppgift att strukturera ett givet innehåll på ett semanti
 
 ## Uppmärkning av text
 
-Labb 1 går ut på att lägga till HTML-taggar till en [given text](labb1.txt) och sedan ordna formattering och layout med hjälp av CSS.
+Labb 1 går ut på att lägga till HTML-taggar till en [given text](http://www.ida.liu.se/~729G26/labbmaterial/labb1.txt) och sedan ordna formattering och layout med hjälp av CSS.
 
 Den markup som ni lägger till texten till ska vara semantiskt och strukturellt genomtänkt, gjord för att kunna fungera bra tillsammans med en CSS stylesheet.
 
