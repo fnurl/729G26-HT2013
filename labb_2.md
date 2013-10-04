@@ -16,16 +16,18 @@ Innehåll
 * bilder - stora och små
 
 ## Tips
-  * skapa array med ref till bilder
-  * console.log
+* skapa array med ref till bilder
+* console.log
 
 ## Uppgiftsbeskrivning
-
+* göra en interaktiv slideshow
+* opacity på pilarna
+* ändra färg på navigeringsknapparna 
 
 ## Basnivå
-  * Codecademy: 1, 3, 5, 7, 9, 11
-  * Fotoalbumsuppgiften
+* Codecademy: 1, 3, 5, 7, 9, 11
+* Fotoalbumsuppgiften
 
 ## Plusnivå
-  *thumbnails under bilden som visas - aktuell bild markeras på något sätt
+* thumbnails under bilden som visas - aktuell bild markeras på något sätt
 

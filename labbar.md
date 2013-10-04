@@ -6,10 +6,10 @@ Labbarna handlar om följande:
 
 1. HTML+CSS
 2. JavaScript
-3. jQuery
-4. Bygga en gränssnittskomponent med HTML, CSS och jQuery
+3. jQuery 1
+4. jQuery och jQuery UI
 
-Laborationerna på varandra kunskapsmässigt.
+Laborationerna bygger kunskapsmässigt på varandra .
 
 # Labb 1
 
@@ -19,7 +19,7 @@ I labb 1 ska ni lära er vad HTML är och hur CSS används för att specificera 
 
 # Labb 2
 
-I labb 3 ska ni lägga till interaktion till något som har form och innehåll. Ni ska också förstå hur manupulation av HTML med JavaScript bygger vidare på det som skapats med HTML och CSS.
+I labb 2 ska ni lägga till interaktion till något som har form och innehåll. Ni ska också förstå hur manupulation av HTML med JavaScript bygger vidare på det som skapats med HTML och CSS.
 
 [Läs mer...](page.php?id=labb_2)
 
