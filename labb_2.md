@@ -20,9 +20,9 @@ Innehåll
 * console.log
 
 ## Uppgiftsbeskrivning
-* göra en interaktiv slideshow
-* opacity på pilarna
-* ändra färg på navigeringsknapparna 
+* göra ett bildspel interaktivt där användaren kan bläddra mellan ett antal bilder
+* göra pilarna icke-transparenta när användaren håller musen över pilarna
+* ändra färg på navigeringsknapparna när användaren håller musen över 
 
 ## Basnivå
 * Codecademy: 1, 3, 5, 7, 9, 11
