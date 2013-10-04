@@ -2,7 +2,7 @@
 
 Kursen innehåller två moment:
 
-* en labbserie samt
+* en labbserie på 4 labbar
 * ett miniprojekt
 
 Båda momenten genomförs i par, och det gäller att båda studenterna i ett par ansvarar för all kod, och ska individuellt kunna svara på frågor och förklara den kod som skrivs.
@@ -22,4 +22,13 @@ Givet att både laborationsuppgiften och projektarbetet är godkänt, ges kursbe
 
 ## Deadlines
 
-Deadline för inlämning av laborationer är 
+<table class="special">
+	<tr><td><strong>Datum</strong></td><td><strong>Deadline</strong></td></tr>
+	<tr><td>2013-11-01</td> <td>Labb 1</td></tr>
+	<tr><td>2013-11-08</td> <td>Labb 2</td></tr>
+	<tr><td>2013-11-15</td> <td>Labb 3</td></tr>
+	<tr><td>2013-11-22</td> <td>Labb 4</td></tr>
+	<tr><td>2013-11-29</td> <td>Projekt: Analys</td></tr>
+	<tr><td>2013-12-06</td> <td>Projekt: Beställning</td></tr>
+	<tr><td>2014-01-13</td> <td>Projekt: Redovisning</td></tr>
+</table>
