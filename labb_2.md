@@ -20,9 +20,18 @@ Innehåll
 * console.log
 
 ## Uppgiftsbeskrivning
+
 * göra ett bildspel interaktivt där användaren kan bläddra mellan ett antal bilder
 * göra pilarna icke-transparenta när användaren håller musen över pilarna
-* ändra färg på navigeringsknapparna när användaren håller musen över 
+* ändra färg på navigeringsknapparna när användaren håller musen över
+
+### plusnivå
+* generera html och css för att skapa en vy som i bilden nedan
+
+![plusnivå](bilder/placeholder-labb2-plus.png "placeholder")
+
+* använd javascript för att markera vilken bild som är vald i vyn med miniatyrbilder
+ 
 
 ## Basnivå
 * Codecademy: 1, 3, 5, 7, 9, 11
