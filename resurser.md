@@ -1,19 +1,38 @@
 # Resurser
 
-## HTML
+Nedan följer ett länkar till olika typer av resurser som kan vara bra att ha koll på. Först kommer länkar till ramverk, sen mjukvara och plugins till mjukvara och längst ner kommer länkar till information av olika slag.
 
-## CSS
+## Ramverk
 
-## JavaScript
+* [jQuery](jquery.com)
+* [jQuery UI](http://jqueryui.com/)
+
+## Mjukvara
+
+### Texteditorer
+
+### SFTP-klienter
+
+### Plugins
+
+* [Emmet](http://emmet.io/): Ett plugin som finns till flera editorer (bl.a. Sublime Text, Notepad++)  som gör att du kan skriva HTML och CSS superfort. Se t.ex. *["Goodbye, Zen coding. Hello Emmet!"](http://coding.smashingmagazine.com/2013/03/26/goodbye-zen-coding-hello-emmet/)* för en demonstration.
+
+## Information
+
+### HTML
+
+### CSS
+
+### JavaScript
 
 * JavaScript Allongé: [Läs på nätet](https://leanpub.com/javascript-allonge/read), [på GitHub](https://github.com/raganwald/javascript-allonge)
 * CoffeeScript Risetto: [Läs på nätet](https://leanpub.com/coffeescript-ristretto/read)
 
-## jQuery/jQuery UI
+### jQuery/jQuery UI
 
+* [jQuery Learning Center](http://learn.jquery.com/)
 
-
-## Human Interface Guidelines
+### Human Interface Guidelines
 
 * [Android Human Interface Guidelines](http://developer.android.com/design/index.html)
 * [Commotion Human Interface Guidelines](https://commotionwireless.net/developer/hig/introduction)
