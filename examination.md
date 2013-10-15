@@ -15,9 +15,18 @@ Laborationen betygsätts med **U**/**G** enligt laborationsinstruktionerna. Labo
 
 ## Miniprojekt
 
-Miniprojektet ska redovisas muntligt vid slutredovisningen och med en kortare rapport, samt kod och de resurser som användes.
+Miniprojektet examineras på följande sätt
 
-Givet att både laborationsuppgiften och projektarbetet är godkänt, ges kursbetyget **G**. Om studenten även har godkänt på plusnivå på laborationsuppgiften ges betyget **VG**.
+- muntligt redovisning
+- en kortare rapport
+- samt kod och de resurser som användes till projektet
+
+
+## Kursbetyg
+
+* Givet att både laborationsuppgifterna och projektarbetet är godkända, ges **kursbetyget G**.
+
+* Om studenten har fått godkänt på plusnivå på samtliga laborationsuppgifter, samt fått betyget VG på projektet ges **kursbetyget VG**.
 
 ## Deadlines
 
@@ -29,5 +38,5 @@ Givet att både laborationsuppgiften och projektarbetet är godkänt, ges kursbe
 	<tr><td>2013-11-22</td> <td>Labb 4</td></tr>
 	<tr><td>2013-11-29</td> <td>Projekt: Analys</td></tr>
 	<tr><td>2013-12-06</td> <td>Projekt: Beställning</td></tr>
-	<tr><td>2014-01-13</td> <td>Projekt: Redovisning</td></tr>
+	<tr><td>2014-01-13</td> <td>Projekt: Redovisning, Rapport, Implementation</td></tr>
 </table>
