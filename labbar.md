@@ -1,36 +1,24 @@
 # Labbar i 729G26
 
+<div class="important" markdown="1">
+## Allmänna instruktioner för labbar - LÄS DETTA!
+
+1. Anmäl er till en grupp i [webreg](https://www.ida.liu.se/webreg/729G26-2013/PRA1)
+2. Skapa ett konto på [Codecademy](http://www.codecademy.com/)
+3. Redovisning av Codecademy-uppgifter görs genom att visa att ni gjort dem för er labbhandledare.
+4. Redovisning av övriga uppgifter görs genom att ni skickar alla relevanta filer (kod, css, etc) ihopzippat till handledare via e-post. Endast en labb/komplettering per e-post. Er labbpartner CC:as i mailet.
+5. Laborationerna kan godkännas på två nivåer: basnivå och plusnivå. För att få VG på kursen måste labbarna vara godkända på plusnivå.
+</div>
+
+## Om labbarna i kursen
+
 Tanken med laborationerna är att de ska förbereda er så att ni kan genomföra projektet på bästa sätt. Laborationerna syftar alltså till att ge de förkunskaper ni behöver inför projektet.
 
 Labbarna handlar om följande:
 
-1. HTML+CSS
-2. JavaScript
-3. jQuery 1
-4. jQuery och jQuery UI
+1. [HTML+CSS](page.php?id=labb_1)
+2. [JavaScript](page.php?id=labb_2)
+3. [jQuery](page.php?id=labb_3)
+4. [jQuery och jQuery UI](page.php?id=labb_4)
 
-Laborationerna bygger kunskapsmässigt på varandra .
-
-# Labb 1
-
-I labb 1 ska ni lära er vad HTML är och hur CSS används för att specificera hur en HTML-sida visas. Ni kommer att lära er vad man bör tänka på när man skriver HTML och hur man kan strukturera sin CSS.
-
-[Läs mer...](page.php?id=labb_1)
-
-# Labb 2
-
-I labb 2 ska ni lägga till interaktion till något som har form och innehåll. Ni ska också förstå hur manupulation av HTML med JavaScript bygger vidare på det som skapats med HTML och CSS.
-
-[Läs mer...](page.php?id=labb_2)
-
-# Labb 3
-
-I labb 3 får ni prova på att använda jQuery som är ett ramverk som ligger ovanpå JavaScript. Det finns för underlätta kodandet, för att slippa skriva kod som tar hand om olika egenheter hos webbläsare m.m. Med jQuery får ni mindre kod att skriva eftersom abstraktionsnivån höjs.
-
-[Läs mer...](page.php?id=labb_3)
-
-# Labb 4
-
-I labb 4 ska ni få tillämpa de kunskaper ni fått från de tre första labbarna och skapa några interaktiva komponenter.
-
-[Läs mer...](page.php?id=labb_4)
+Laborationerna bygger kunskapsmässigt på varandra.

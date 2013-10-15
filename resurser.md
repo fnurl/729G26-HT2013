@@ -32,6 +32,9 @@ Nedan följer ett länkar till olika typer av resurser som kan vara bra att ha k
 
 * [jQuery Learning Center](http://learn.jquery.com/)
 
+### Wireframes
+* http://wireframes.tumblr.com/
+
 ### Human Interface Guidelines
 
 * [Android Human Interface Guidelines](http://developer.android.com/design/index.html)

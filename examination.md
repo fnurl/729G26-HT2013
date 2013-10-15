@@ -15,7 +15,6 @@ Laborationen betygsätts med **U**/**G** enligt laborationsinstruktionerna. Labo
 
 ## Miniprojekt
 
-
 Miniprojektet ska redovisas muntligt vid slutredovisningen och med en kortare rapport, samt kod och de resurser som användes.
 
 Givet att både laborationsuppgiften och projektarbetet är godkänt, ges kursbetyget **G**. Om studenten även har godkänt på plusnivå på laborationsuppgiften ges betyget **VG**.
