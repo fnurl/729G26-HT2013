@@ -1,0 +1,222 @@
+------------------------------------------------------------------------------
+
+A short introduction to HTML and HTML5 - exceprts from w3schools.com
+
+------------------------------------------------------------------------------
+
+Table of contents
+-----------------
+
+* What is HTML5
+* HTML Elements
+    * HTML Element Syntax
+    * HTML Block Elements
+    * HTML Inline Elements
+    * The HTML <div> Element
+    * The HTML <span> Element
+    * HTML Tip: Use Lowercase Tags
+* HTML Attributes
+    * Always Quote Attribute Values
+    * HTML Tip: Use Lowercase Attributes
+* What are Semantic Elements?
+    * HTML5 <section> Element
+    * HTML5 <article> Element
+    * HTML5 <nav> Element
+    * HTML5 <aside> Element
+    * HTML5 <header> Element
+    * HTML5 <figure> and <figcaption> Elements
+
+
+What is HTML5?
+--------------
+
+HTML5 will be the new standard for HTML.
+
+The previous version of HTML, HTML 4.01, came in 1999. The web has changed a lot since then.
+
+HTML5 is still a work in progress. However, the major browsers support many of the new HTML5 elements and APIs.
+How Did HTML5 Get Started?
+
+HTML5 is a cooperation between the World Wide Web Consortium (W3C) and the Web Hypertext Application Technology Working Group (WHATWG).
+
+WHATWG was working with web forms and applications, and W3C was working with XHTML 2.0. In 2006, they decided to cooperate and create a new version of HTML.
+
+Some rules for HTML5 were established:
+
+    * New features should be based on HTML, CSS, DOM, and JavaScript
+    * Reduce the need for external plugins (like Flash)
+    * Better error handling
+    * More markup to replace scripting
+    * HTML5 should be device independent
+    * The development process should be visible to the public
+
+
+HTML Elements
+-------------
+
+An HTML element is everything from the start tag to the end tag. The start tag is often called the opening tag. The end tag is often called the closing tag.
+
+
+HTML Element Syntax
+-------------------
+
+    * An HTML element starts with a start tag / opening tag
+    * An HTML element ends with an end tag / closing tag
+    * The element content is everything between the start and the end tag
+    * Some HTML elements have empty content
+    * Empty elements are closed in the start tag
+    * Most HTML elements can have attributes
+
+Most HTML elements can be nested (can contain other HTML elements).
+
+HTML documents consist of nested HTML elements.
+
+
+HTML Tip: Use Lowercase Tags
+----------------------------
+
+HTML tags are not case sensitive: <P> means the same as <p>. Many web sites use uppercase HTML tags.
+
+W3Schools use lowercase tags because the World Wide Web Consortium (W3C) recommends lowercase in HTML 4, and demands lowercase tags in XHTML.
+
+
+HTML Attributes
+---------------
+
+    * HTML elements can have attributes
+    * Attributes provide additional information about an element
+    * Attributes are always specified in the start tag
+    * Attributes come in name/value pairs like: name="value"
+
+
+Always Quote Attribute Values
+-----------------------------
+
+Attribute values should always be enclosed in quotes.
+
+Double style quotes are the most common, but single style quotes are also allowed.
+
+Tip: In some rare situations, when the attribute value itself contains quotes, it is necessary to use single quotes: name='John "ShotGun" Nelson'
+
+
+HTML Tip: Use Lowercase Attributes
+----------------------------------
+
+Attribute names and attribute values are case-insensitive.
+
+However, the World Wide Web Consortium (W3C) recommends lowercase attributes/attribute values in their HTML 4 recommendation.
+
+Newer versions of (X)HTML will demand lowercase attributes.
+
+
+HTML Block Elements
+-------------------
+
+Most HTML elements are defined as block level elements or as inline elements.
+
+Block level elements normally start (and end) with a new line when displayed in a browser.
+
+Examples: <h1>, <p>, <ul>, <table> 
+
+
+HTML Inline Elements
+--------------------
+
+Inline elements are normally displayed without starting a new line.
+
+Examples: <b>, <td>, <a>, <img>
+
+
+The HTML <div> Element
+----------------------
+
+The HTML <div> element is a block level element that can be used as a container for grouping other HTML elements.
+
+ The <div> element has no special meaning. Except that, because it is a block level element, the browser will display a line break before and after it.
+
+When used together with CSS, the <div> element can be used to set style attributes to large blocks of content.
+
+Another common use of the <div> element, is for document layout. It replaces the "old way" of defining layout using tables. Using <table> elements for layout is not the correct use of <table>. The purpose of the <table> element is to display tabular data.
+
+
+The HTML <span> Element
+-----------------------
+
+The HTML <span> element is an inline element that can be used as a container for text.
+
+The <span> element has no special meaning.
+
+When used together with CSS, the <span> element can be used to set style attributes to parts of the text.
+
+
+What are Semantic Elements?
+---------------------------
+
+A semantic element clearly describes its meaning to both the browser and the developer.
+
+Examples of non-semantic elements: <div> and <span> - Tells nothing about its content.
+
+Examples of semantic elements: <form>, <table>, and <img> - Clearly defines its content.
+
+
+HTML5 <section> Element
+-----------------------
+
+The <section> element defines a section in a document.
+
+According to W3C's HTML5 documentation: "A section is a thematic grouping of content, typically with a heading."
+
+
+HTML5 <article> Element
+-----------------------
+
+The <article> element specifies independent, self-contained content.
+
+An article should make sense on its own and it should be possible to distribute it independently from the rest of the web site.
+
+Examples of where an <article> element can be used:
+
+    * Forum post
+    * Blog post
+    * News story
+    * Comment
+
+
+HTML5 <nav> Element
+-------------------
+The <nav> element defines a set of navigation links.
+
+The <nav> element is intended for large blocks of navigation links. However, not all links in a document should be inside a <nav> element!
+
+
+HTML5 <aside> Element
+---------------------
+The <aside> element defines some content aside from the content it is placed in (like a sidebar).
+
+The aside content should be related to the surrounding content.
+
+
+HTML5 <header> Element
+----------------------
+
+The <header> element specifies a header for a document or section.
+
+The <header> element should be used as a container for introductory content.
+
+You can have several <header> elements in one document.
+
+
+HTML5 <figure> and <figcaption> Elements
+----------------------------------------
+
+The <figure> tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
+
+While the content of the <figure> element is related to the main flow, its position is independent of the main flow, and if removed it should not affect the flow of the document.
+
+The <figcaption> tag defines a caption for a <figure> element.
+
+The <figcaption> element can be placed as the first or last child of the <figure> element.
+
+------------------------------------------------------------------------------
+
+The above material comes originally from w3schools.com and is used with permission from Refsnes Data.
