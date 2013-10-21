@@ -1,6 +1,6 @@
 # Labb 1 - HTML & CSS
 
-**Innan ni börjar med labben, se till att ni läst igenom de [allmänna labbinstruktionerna](page?id=labbar) som finns för kursen.**
+**Innan ni börjar med labben, se till att ni läst igenom de [allmänna labbinstruktionerna][1] som finns för kursen.**
 
 ## Om labben
 
@@ -13,7 +13,7 @@ Labb 1 består av en uppgift att strukturera ett givet innehåll på ett semanti
 - hur struktur av innehåll samspelar med hur innehåll kan formatteras
 - boxmodellen
 
-## Redovisning 
+## Redovisning
 
 Ni redovisar till er labbhandledare via e-post genom att 
 
@@ -32,7 +32,7 @@ Dessa deluppgifter beskrivs nedan.
 
 ### HTML
 
-Deluppgift 1 går ut på att lägga till HTML-taggar till en [given text](http://www.ida.liu.se/~729G26/labbmaterial/labb1.txt) och sedan ordna formattering och layout med hjälp av CSS. Bilderna i [denna katalog]() ska också finnas med på ett snyggt och passande sätt på sidan.
+Deluppgift 1 går ut på att lägga till HTML-taggar till en [given text][2] och sedan ordna formattering och layout med hjälp av CSS. Bilderna i [denna katalog]() ska också finnas med på ett snyggt och passande sätt på sidan.
 
 Den markup som ni lägger till texten till ska vara semantiskt och strukturellt genomtänkt, gjord för att kunna fungera bra tillsammans med en CSS stylesheet.
 
@@ -60,21 +60,22 @@ Deluppgift 2 går ut på att skapa och länka till en CSS som definierar utseend
 
 ### Följande krav gäller för G+
 
-* Bra struktur på CSS-filen - layout och utseende i olika delar av filen.
-* Sidan ska vara responsiv (responsive design)
-* 
+- Bra struktur på CSS-filen - layout och utseende i olika delar av filen.
+- Sidan ska använda responsive design
 
 ## Deluppgift: Rapport
 
 Rapport som kort förklarar strukturen på dokumentet - Varför valde du strukturen? Hur valde du att strukturera dina klasser och id:n?
 
-### Följande krav gäller för godkänt på basnivå
+### Följande krav gäller för G
 
-* Argument för att använda en div istället för t.ex. article eller nav.
-* Motivering av val av era klasser och id:n (varför just dem?).
-* Ge exempel på bra tillfällen att använda en klass.
-* Ge exempel på bra tillfällen att använda ett id.
+- Argument för att använda en div istället för t.ex. article eller nav.
+- Motivering av val av era klasser och id:n (varför just dem?).
+- Ge exempel på bra tillfällen att använda en klass.
+- Ge exempel på bra tillfällen att använda ett id.
 
-### Följande krav gäller för godkänt på plusnivå
-* Ge exempel med förklaring på hur dålig HTML-struktur kan ställa till problem vid användning av CSS.
+### Följande krav gäller för G+
+- Ge exempel med förklaring på hur dålig HTML-struktur kan ställa till problem vid användning av CSS.
 
+[1]:	page?id=labbar
+[2]:	http://www.ida.liu.se/~729G26/labbmaterial/labb1.txt

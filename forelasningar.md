@@ -2,7 +2,7 @@
 
 Nedan finns föreläsningsöversikt samt litteraturhänvisningar. Föreläsningsbilder till de olika föreläsningarna kommer också att länkas till från denna sida.
 
-<table>
+<table class="special">
     <tr>
         <td>Föreläsning</td>
         <td>Innehåll</td>

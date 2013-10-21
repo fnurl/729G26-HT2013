@@ -31,12 +31,12 @@ Miniprojektet examineras på följande sätt
 ## Deadlines
 
 <table class="special">
-	<tr><td><strong>Datum</strong></td><td><strong>Deadline</strong></td></tr>
-	<tr><td>2013-11-01</td> <td>Labb 1</td></tr>
-	<tr><td>2013-11-08</td> <td>Labb 2</td></tr>
-	<tr><td>2013-11-15</td> <td>Labb 3</td></tr>
-	<tr><td>2013-11-22</td> <td>Labb 4</td></tr>
-	<tr><td>2013-11-29</td> <td>Projekt: Analys</td></tr>
-	<tr><td>2013-12-06</td> <td>Projekt: Beställning</td></tr>
-	<tr><td>2014-01-13</td> <td>Projekt: Redovisning, Rapport, Implementation</td></tr>
+    <tr><td><strong>Datum</strong></td><td><strong>Deadline</strong></td></tr>
+    <tr><td>2013-11-01</td> <td>Labb 1</td></tr>
+    <tr><td>2013-11-08</td> <td>Labb 2</td></tr>
+    <tr><td>2013-11-15</td> <td>Labb 3</td></tr>
+    <tr><td>2013-11-22</td> <td>Labb 4</td></tr>
+    <tr><td>2013-11-29</td> <td>Projekt: Analys</td></tr>
+    <tr><td>2013-12-06</td> <td>Projekt: Beställning</td></tr>
+    <tr><td>2014-01-13</td> <td>Projekt: Redovisning, Rapport, Implementation</td></tr>
 </table>
