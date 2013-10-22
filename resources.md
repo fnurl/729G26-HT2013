@@ -1,20 +1,24 @@
-# Resurser
+# Resources
 
 Nedan följer ett länkar till olika typer av resurser som kan vara bra att ha koll på. Först kommer länkar till ramverk, sen mjukvara och plugins till mjukvara och längst ner kommer länkar till information av olika slag.
 
-## Ramverk
+## Inspiration
+
+* [hakim.se](http://hakim.se/)
+
+## Framworks
 
 * [jQuery](jquery.com)
 * [jQuery UI](http://jqueryui.com/)
 
-## Mjukvara
+## Software
 
-### Texteditorer
+### Text editors
 * Sublime Text
 * Notepad++
 * Light Table
 
-### SFTP-klienter
+### SFTP clients
 * Cyberduck
 
 ### Wireframing
@@ -25,7 +29,7 @@ Nedan följer ett länkar till olika typer av resurser som kan vara bra att ha k
 
 ### Plugins
 
-* [Emmet](http://emmet.io/): Ett plugin som finns till flera editorer (bl.a. Sublime Text, Notepad++)  som gör att du kan skriva HTML och CSS superfort. Se t.ex. *["Goodbye, Zen coding. Hello Emmet!"](http://coding.smashingmagazine.com/2013/03/26/goodbye-zen-coding-hello-emmet/)* för en demonstration.
+* [Emmet](http://emmet.io/): A plugin available for multiple editors (e.g. Sublime Text, Notepad++) that lets you write HTML and CSS really, really fast. See ["Goodbye, Zen coding. Hello Emmet!"](http://coding.smashingmagazine.com/2013/03/26/goodbye-zen-coding-hello-emmet/) for a demonstration.
 
 ## Information
 
