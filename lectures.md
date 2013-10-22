@@ -1,41 +1,43 @@
-# Föreläsningar
+# Lectures
 
-Nedan finns föreläsningsöversikt samt litteraturhänvisningar. Föreläsningsbilder till de olika föreläsningarna kommer också att länkas till från denna sida.
+Below you can find an overview of the lectures that will be given during the course together with links to lectures slide, code written during the lectures and pointers to the recommended reading material for each lecture.
+
+Lecture slides will be made available around the time of each lecture.
 
 <table class="special">
     <tr>
-        <td>Föreläsning</td>
-        <td>Innehåll</td>
-        <td>Kod</td>
-        <td>Läshänvisningar</td>
+        <td>Lecture</td>
+        <td>Content</td>
+        <td>Code</td>
+        <td>Lecture readings</td>
     </tr>
     <tr>
-        <td>Fö 1</td>
-        <td>HTMl och CSS</td>
+        <td>Lecture 1</td>
+        <td>HTMl and CSS</td>
         <td></td>
         <td>http://www.w3schools.com/html/default.asp, http://www.w3schools.com/css/default.asp</td>
     </tr>
     <tr>
-        <td>Fö 2</td>
+        <td>Lecture 2</td>
         <td>JavaScript</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td>Fö 3</td>
-        <td>jQuery, interaktionsbeskrivningar</td>
+        <td>Lecture 3</td>
+        <td>jQuery, describing interaction</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td>Fö 4</td>
-        <td>jQuery UI, ytterligare komponenter, versionshantering</td>
+        <td>Lecture 4</td>
+        <td>jQuery UI, using other jQuery/JavaScript libraries, version control</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td>Fö 5</td>
-        <td>Projektinformation, förebildsarbete</td>
+        <td>Lecture 5</td>
+        <td>Information about the mini project, analysis of precedent designs</td>
         <td></td>
         <td></td>
     </tr>
