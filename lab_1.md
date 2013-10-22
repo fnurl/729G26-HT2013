@@ -31,7 +31,7 @@ The assignment consists of three tasks
 
 The tasks are described in detail below.
 
-### HTML
+## HTML
 
 Your first task is to mark up [this linked text](http://www.ida.liu.se/~729G26/labbmaterial/lab1.txt) using HTML5. This task is connected to the second task, so you will be moving back and forth between these tasks iteratively.
 
@@ -39,16 +39,16 @@ The images in [this folder](lab1_images) should also be included in a logical an
 
 The document should also be split into several files.
 
-#### Basic and advanced difficulty level for the HTML task
+### Basic and advanced difficulty level for the HTML task
 
 * all pages should validate as correct HTML5
 * use at least the following tags: article, div, nav, ol, ul, li, table, tr,  * td, img, p, header
-* Följ kod-rekommendationer för HTML5 - använd rätt element för olika strukturella element.
+* use semantic HTML5 tags where applicable
 * Each page should have a table of contents that can be used to navigate the  document.
 * More than one heading level should be used
 * Names of classes and id:s should be carefully considered
 
-### CSS
+## CSS
 
 Your second task is to style the content you have created using CSS.
 
@@ -67,7 +67,7 @@ Your second task is to style the content you have created using CSS.
 
 ## Report
 
-Write a short (250-500 words) report.
+Write a short (300-500 words) report.
 
 ### Basic difficulty level for the report
 
