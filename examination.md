@@ -1,42 +1,42 @@
 # Examination
 
-Kursen innehåller två moment:
+The course is divided into to two parts:
 
-* en labbserie på 4 labbar
-* ett miniprojekt
+* lab assignments 
+* a mini project
 
-Båda momenten genomförs i par, och det gäller att båda studenterna i ett par ansvarar för all kod, och ska individuellt kunna svara på frågor och förklara den kod som skrivs.
+You will be working in pairs during both the lab assignments and the mini project. Unless there are special circumstances, you should work together with the same partner for both parts. The work should not be partitioned between the students in a group and both students should be able to present the work the group submits.
 
-## Laborationer
-Laborationen betygsätts med **U**/**G** enligt laborationsinstruktionerna. Laborationerna ska demonstreras för läraren innan inlämning. Laborationerna kan bli godkända på *basnivå* och på *plusnivå*.
+## Lab assignments
 
-**För att kunna få VG på kursen måste laborationerna vara godkända på plusnivå**. 
+Before submitting a lab assignment, the student group should present their work to their assigned TA.
 
-
-## Miniprojekt
-
-Miniprojektet examineras på följande sätt
-
-- muntligt redovisning
-- en kortare rapport
-- samt kod och de resurser som användes till projektet
+The lab assignments have two difficulty levels, basic and advanced. **To be eligible to recieve the course grade of VG, students have to pass each lab assignment on the advanced difficulty level.**
 
 
-## Kursbetyg
+## Mini project
 
-* Givet att både laborationsuppgifterna och projektarbetet är godkända, ges **kursbetyget G**.
+The mini project is assessed based on the folowing
 
-* Om studenten har fått godkänt på plusnivå på samtliga laborationsuppgifter, samt fått betyget VG på projektet ges **kursbetyget VG**.
+- an oral presentation of the project and the project results
+- a short project report
+- submission of code and other resources produced during the project
+
+
+## Course grade
+
+* Upon passing the lab assignments on the basic difficulty level and aquiring a passing grade for the mini project, the student will be awarded the grade **G** for the course. 
+* Upon passing the lab assignments on the advanced difficulty level and aquiring a passing grade for the mini project, the student will be awarded the grade **VG** for the course. 
 
 ## Deadlines
 
 <table class="special">
-    <tr><td><strong>Datum</strong></td><td><strong>Deadline</strong></td></tr>
-    <tr><td>2013-11-01</td> <td>Labb 1</td></tr>
-    <tr><td>2013-11-08</td> <td>Labb 2</td></tr>
-    <tr><td>2013-11-15</td> <td>Labb 3</td></tr>
-    <tr><td>2013-11-22</td> <td>Labb 4</td></tr>
-    <tr><td>2013-11-29</td> <td>Projekt: Analys</td></tr>
-    <tr><td>2013-12-06</td> <td>Projekt: Beställning</td></tr>
-    <tr><td>2014-01-13</td> <td>Projekt: Redovisning, Rapport, Implementation</td></tr>
+    <tr><td><strong>Date</strong></td><td><strong>Deadline</strong></td></tr>
+    <tr><td>2013-11-01</td> <td>Lab assignment 1</td></tr>
+    <tr><td>2013-11-08</td> <td>Lab assignment 2</td></tr>
+    <tr><td>2013-11-15</td> <td>Lab assignment 3</td></tr>
+    <tr><td>2013-11-22</td> <td>Lab assignment 4</td></tr>
+    <tr><td>2013-11-29</td> <td>Project: Analysis</td></tr>
+    <tr><td>2013-12-06</td> <td>Project: Commission</td></tr>
+    <tr><td>2014-01-13</td> <td>Project: Presentation, report, implementation</td></tr>
 </table>
