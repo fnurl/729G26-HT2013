@@ -1,12 +1,12 @@
 # Resources
 
-Nedan följer ett länkar till olika typer av resurser som kan vara bra att ha koll på. Först kommer länkar till ramverk, sen mjukvara och plugins till mjukvara och längst ner kommer länkar till information av olika slag.
+Here you will find a collection of links to resources of different categories.
 
 ## Inspiration
 
 * [hakim.se](http://hakim.se/)
 
-## Framworks
+## Frameworks
 
 * [jQuery](jquery.com)
 * [jQuery UI](http://jqueryui.com/)
@@ -17,6 +17,7 @@ Nedan följer ett länkar till olika typer av resurser som kan vara bra att ha k
 * Sublime Text
 * Notepad++
 * Light Table
+* Brackets
 
 ### SFTP clients
 * Cyberduck
@@ -41,6 +42,7 @@ Nedan följer ett länkar till olika typer av resurser som kan vara bra att ha k
 
 ### CSS
 * [A Beginners Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
+* [Child and Sibling Selectors](http://css-tricks.com/child-and-sibling-selectors/)
 
 ### JavaScript
 
@@ -57,6 +59,9 @@ Nedan följer ett länkar till olika typer av resurser som kan vara bra att ha k
 * [jQuery Learning Center](http://learn.jquery.com/)
 * [jQuery Fundamentals](http://jqfundamentals.com/)
 * [jQuery Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/jquery)
+
+### Misc / Mixed
+* [**Microsoft Learn HTML5**](www.microsoftvirtualacademy.com/training-courses/learn-html5-with-javascript-css3-jumpstart-training)
 
 ### Wireframes
 

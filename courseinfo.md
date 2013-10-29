@@ -1,21 +1,14 @@
-# Allmän kursinformation
+# General course information
 
-Som interaktionsdesigner behöver man också vara insatt i hur det går till att omsätta en design till implementation. En viktig kunskap är att känna till vilka möjligheter och begränsningar som finns hos det ramverk som används för att implementera interaktionen.
+As an interaction designer, it is necessary to have some basic working knowledge of how to implement a specific interaction design. It is important to know the bounderies of the digital material and the framework that you are working with.
+ 
+In this course, we will cover both theoretical and practical topics related to the implementation of interactive components. The framwork that we will use in this course is HTML5 together with JavaScript and jQuery.
 
-I denna kurs ska ni få både teoretisk och praktisk kunskap kring detta. Vi kommer använda HTML5, JavaScript och jQuery som ramverk för de gränssnitt som vi impementerar i denna kurs. Vi kommer att gå igenom hur man analyserar en implementation, hur man beskriver den, och hur kan implementera ett gränssnitt. Mycket fokus ligger på praktiska erfarenheter.
+We will analyze, specify and implement interactive components with a large part of this course being dedicated to the practical aspects of the trade.
 
-## Detaljerad kursinformation
+## Detailed course information
 
-* Kursens innehåll och mål hittar du i [kursplanen][1]. 
-* På [examinationssidan][2] hittad du information om vilka examinationmoment som ingår i kursen. Där hittar du också vilka [deadlines][3] som gäller för denna kursomgång.
-* Schema och översiktsplanering hittar du på [schemasidan][4].
-* Tips på [kurslitteratur][5] finns på [litteratursidan][6] och övriga [resurser][7] som kan vara bra att känna till på [resurssidan][8].
-
-[1]:	page?id=kursplan
-[2]:	page?id=examination
-[3]:	page?id=examination
-[4]:	page?id=schema
-[5]:	page?id=litteratur
-[6]:	page?id=litteratur
-[7]:	page?id=litteratur
-[8]:	page?id=litteratur
+* You can find information on which topics are covered and what the aims of the course are in the [syllabus](page.en.php?id=syllabus).
+* Specifics on the examination of the course can be found on the [course examination page](page.en.php?id=examination). On this page you will also find details on course **deadlines**.
+* An overview of the scheduling of the lectures and lab assignments can be found on the [timetable page](page.en.php?id=timetable)
+* Separate pages on [course literature](page.en.php?id=literature) and other [resources](page.en.php?id=resources) can also be found on the course website.
