@@ -1,72 +1,77 @@
-# Labb 2 - JavaScript
+# Lab assignment 2 - JavaScript
 
-**Innan ni börjar med labben, se till att ni läst igenom de [allmänna labbinstruktionerna](page?id=labbar) som finns för kursen.**
+**Before attempting to solve this assignment, make sure you have read the [general lab instructions](page.en.php?id=labs).**
 
-## Om labben
+## About the lab assignment
 
-I denna labb ska lära er grundläggande syntax i JavaScript och hur man använder JavaScript för att 
+The second lab assignment in this course contains two tasks. The first is to complete certain exercises on Codecademy. The second task is to create a page with an interactive slideshow.
 
-* manipulera existerande HTML
-* möjligöra interaktion på en webbsida 
+You will use JavaScript to manipulate existing HTML and to enable user interaction on a web page. You will also learn how to hunt bugs in your code using the web browser.
 
-I processen kommer ni också lära er använda olika verktyg för att debugga och felsöka JavaScript som körs i en webbläsare.
+## Learning outcomes
 
-## Kunskapsmål
+After this lab assignment, you should have gained knowledge about the following:
 
-* syntax som används i JavaScript
-* variabelhantering
-* kontrollstrukturer, loopar och villkorssatser 
-* Skapa och kalla på funktioner, både namngivna och anonyma
-* debugga med verktyg i webbläsare
-* manipulera HTML och CSS med hjälp av Javascript
-* förstå hur script laddas in när man öppnar en webbsida - placering av `<script>`
+* JavaScript syntax
+* variables in JavaScript
+* control structures in JavaScript
+* loops in JavaScript
+* how to define and call functions, both named and anonymous
+* how to use web browser tools to debug your code
+* how to manipulate HTMl and CSS using JavaScript
+* how a JavaScript is loaded on a web page and where to place the `<script>` tag
 
-## Redovisning
+## Submission and demonstration
 
-1. Visa för er labbhandledare att ni gjort Codecademy-uppgifterna.
-2. Skicka ett mail till er handledare. I titeln skriver ni "729G26 labb2" och bifoga sedan koden och bilder i mailet. Zippa ihop allt så att det bara är en fil ni skickar.
+1. Show your TA your Codecademy results page. The Codecademy exercises should be completed by each student in the group separately. 
+2. Present the slideshow to your TA. Your TA will ask each member of the group a few questions about your work.
+2. Zip the files needed to view your slideshow page and send the *single* zip-file to your TA.
 
-## Uppgift
-Denna labb består av följande deluppgifter:
+## Tasks
 
-1. Registrera er på [Codeacademy](http://www.codecademy.com), gå till [JavaScript-kursen](http://www.codecademy.com/tracks/javascript) och gör uppgifterna   1, 3, 5, 7, 9, 11.
-2. Gör en interaktivt fotoalbum. Se vidare instruktioner nedan.
+1. **Codecademy exercises**: *Each group member* should register and complete the exercises listed below.
+2. **Slideshow**: The group should then create a slideshow as specified below.
 
-### Codecademy
+## Codecademy
 
-Vi kommer använda oss av material på [Codecademy](http://www.codecademy.com) under denna kurs. För att få tillgång till materialet och spara era resultat måste ni skapa ett konto där (gratis). När ni har skapat kontot gör ni **uppgift 1, 3, 5, 6, 7, 9 och 11** i deras [JavaScript-kurs](http://www.codecademy.com/tracks/javascript). Ni redovisar genom att visa för er handledare att ni gjort dem.
+* Each group member should register a user at [Codecademy](http://www.codecademy.com) (free).
+* Each group member should do exercises 1, 3, 5, 6, 7, 9.1 and 11 in the [JavaScript-track](http://www.codecademy.com/tracks/javascript). After completing the exercises, show your TA your result page.
 
-### Fotoalbum
+## Slideshow
 
-För att komma igång behöver ni ladda ner filerna från _länk till filer_ och placera dem på lämplig plats i er hemkatalog. I katalogen hittar ni
+### Preparations
 
-- html-fil utan thumbnails
-- css för placering av knappar
-- bilder - stora och små
+Download the [lab template zip file](labtemplates/lab2-template.zip), unpack its contents. The zip file contains the following:
 
-#### För G ska ni göra följande
+- an html file without thumbnail placeholders, but with a place for the main image + arrows
+- a css file that places the main image and defines creates the CSS arrows
+- images to use in the slideshow + thumbnails
 
-- Göra det möjligt för användaren att bläddra i bildspelet som finns i statiskt format på sidan bildspel.html. 
-- ändra färg på navigeringsknapparna när användaren håller musen över
+### Slideshow - Basic difficulty
 
-![Wireframe för basnivå av fotoalbumet](bilder/labb1-bas.png)
+To complete the task at this level, you will need to modify the CSS file (style.css), and add JavaScript to the JavaScript file (script.js). You will also need to link to the JavaScript and run the JavaScript from the HTML file.
 
+The following should be implemented to pass the basic difficulty level of this task.
 
-### För G+ ska även göra följande
+- the arrow buttons should be semi-opaque when the interface is idle
+- when the mouse hovers above a button (arrow), the arrow should become opaque.
+- when the mouse hovers over a button (arrow), the mouse pointer should turn into a hand - hinting to the user that it is possible to click on it
+- when the user clicks on the left arrow button, the previous image should be shown in the picture area
+- when the user clicks on the right arrow button, the next image should be shown in the picture area
+- the slideshow should loop
+- write a short description on how the CSS triagles are created (the arrows).
 
-Som plusnivå så ska skapa en thumbnail som på samma sätt som visas i bilden nedan. Tanken är att översikten visar vilken bild som är vald genom att ha mindre transparens. För att genomföra denn uppgift så måste lägga till egen html och andvända bilderna som finns i mappen images/(small1.png, small2.png..). Ni kan dela upp det i två steg:
+![Wireframe for the basic difficulty level](images/lab2-basic.png)
 
-- Skapa HTML och CSS för att skapa en vy som i bilden nedan
-- Använd javascript för att markera vilken bild som är vald i vyn med miniatyrbilder
+### Slideshow - Advanced difficulty
 
-![Wireframe för plusnivå av fotoalbumet](bilder/labb1-plus.png)
+To complete the advanced difficulty level, you will also need to modify the HTML file.
 
+For the advanced difficulty level, you are required to, in addition to the requirements of the basic difficulty level, add a row of thumbnails to the slideshow where the current picture shown is highlighted in some way. You can use the thumbnail images [here](labtemplates/lab1/images).
 
-* Skapa en thumbnail som i bilden nedan. 
+It is recommended that you solve the task in two steps:
 
+- Modify the HTML and CSS file from the basic difficulty level so that they create an interface such as in the wireframe below.
+- Modify the JavaScript from the basic difficulty level so that it highlights thumbnail of the currently displayed image.
 
-
-
-
-
-
+![Wireframe for the advanced difficulty level](images/lab2-advanced.png)

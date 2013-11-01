@@ -67,7 +67,7 @@ Your second task is to style the content you have created using CSS.
 * All requirements for the basic difficulty level should be met
 * The CSS file should be well organized and separate style and layout, i.e. style and layout declarations should not be mixed in the same selector block.
 * The table of contents should float and be kept on a specific position on the screen. 
-* The pages should use a responsive design.
+* The pages should use a responsive design (here is a [tutorial](http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-desin) to get you started)
 
 ## Report
 
