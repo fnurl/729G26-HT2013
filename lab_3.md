@@ -28,7 +28,7 @@ After this lab assignment, you should have gained knowledge about the following:
 
 *Common instructions for all exercises*: Make sure you comment your code so that your TA can understand your line of thought.
 
-Download the lab template files here. Unzip the archive and use the files provided.
+**[Download the lab template files here](labtemplates/lab3-template.zip). Unzip the archive and use the files provided.**
 
 ### Exercise 1 - First steps
 
@@ -128,9 +128,9 @@ Once you have created a HTML and CSS file that reproduces the layout above. Impl
 
 * Each button should be connected to a box
 * When the user clicks a button, two things happen:
-    * the corresponding box changes its size
-    * the button is marked visually as being activated
-* when the user clicks another button, any previously activated button and box reverts to its original appearance
+    * the corresponding box changes its size using an animated transition
+    * the button is marked visually as being activated, also using an animated transition
+* when the user clicks another button, any previously activated button and box reverts to its original appearance, also using animated transitions
 
 ![Button 1 active](images/lab3-6-b1.png)
 
