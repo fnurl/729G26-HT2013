@@ -32,6 +32,10 @@ Here you will find a collection of links to resources of different categories.
 
 * [Emmet](http://emmet.io/): A plugin available for multiple editors (e.g. Sublime Text, Notepad++) that lets you write HTML and CSS really, really fast. See ["Goodbye, Zen coding. Hello Emmet!"](http://coding.smashingmagazine.com/2013/03/26/goodbye-zen-coding-hello-emmet/) for a demonstration.
 
+### Dummy images
+
+* [Dynamic Dummy Image](http://dummyimage.com/)
+
 ## Information
 
 ### HTML
@@ -46,7 +50,8 @@ Here you will find a collection of links to resources of different categories.
 
 ### JavaScript
 
-* JavaScript Allongé: [Läs på nätet](https://leanpub.com/javascript-allonge/read), [på GitHub](https://github.com/raganwald/javascript-allonge)
+* [Free JavaScript Books](http://jsbooks.revolunet.com/)
+* JavaScript Allongé: [read on the web](https://leanpub.com/javascript-allonge/read), [source @ GitHub](https://github.com/raganwald/javascript-allonge)
 * CoffeeScript Risetto: [Läs på nätet](https://leanpub.com/coffeescript-ristretto/read)
 * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html)
 * [Mozilla Developers Network. JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide?redirectlocale=en-US&redirectslug=JavaScript%2FGuide)

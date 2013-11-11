@@ -35,7 +35,7 @@ After this lab assignment, you should have gained knowledge about the following:
 ## Codecademy
 
 * Each group member should register a user at [Codecademy](http://www.codecademy.com) (free).
-* Each group member should do exercises 1, 3, 5, 6, 7, 9.1 and 11 in the [JavaScript-track](http://www.codecademy.com/tracks/javascript). After completing the exercises, show your TA your result page.
+* Each group member should do exercises 1, 3, 5, 6, 7, <ins datetime="2013-11-05T15:52:00+01:00">9</ins> <del datetime="2013-11-05T15:52:00+01:00">9.1</del> and 11 in the [JavaScript-track](http://www.codecademy.com/tracks/javascript). After completing the exercises, show your TA your result page. *Update 2013-11-05: All of exercise 9 should be completed.*
 
 ## Slideshow
 
